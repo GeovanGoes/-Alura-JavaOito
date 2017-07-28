@@ -2,6 +2,12 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
 
+/**
+ * Os três pilares da evolução do java 8 são:
+ * Default Method
+ * Lambda
+ * Method Reference
+ * */
 public class OrdenaStrings {
 	public static void main(String[] args) {
 		List<String> palavras = new ArrayList<String>();
