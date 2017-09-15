@@ -12,10 +12,10 @@ public class OrdenaStrings {
 	public static void main(String[] args) {
 		List<String> palavras = new ArrayList<String>();
 		palavras.add("Alura");
-		palavras.add("meu ovo");
-		palavras.add("minhas bola");
+		palavras.add("meu novo");
+		palavras.add("minhas notas");
 		palavras.add("Caelum");
-		palavras.add("Ovo");
+		palavras.add("Novo");
 		
 		/**Equivalente
 		 * palavras.sort((s1, s2) -> Integer.compare(s1.length(), s2.length()));

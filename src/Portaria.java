@@ -1,5 +1,5 @@
 
-public interface Putaria {
+public interface Portaria {
 	
 	default void bate()
 	{
